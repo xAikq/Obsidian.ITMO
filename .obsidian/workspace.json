@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "659c1b9444d640a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef34e43d52f4c3e",
+        "type": "tabs",
+        "dimension": 63.25616131441374,
+        "children": [
+          {
+            "id": "65beb3fdb843fca0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITMO.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ITMO"
+            }
+          },
+          {
+            "id": "b43a1bbb27a24ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd year/Higher Math/Colloquium/Colloquium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colloquium"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "71649a09e9ce1d81",
+        "type": "tabs",
+        "dimension": 36.74383868558626,
+        "children": [
+          {
+            "id": "bbd2871b95a6ec25",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ec5a6a7e909bcf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8ecc0b9406ccc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015f5fdf449fa214",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a9129b18d44d2f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Суммой",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "923b5665c9395327",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.50418853759766
+  },
+  "right": {
+    "id": "0808ee3538af54ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e52464a94fe9c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fbf966d687e1684",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - SOLID/Single Responsibility Principle (SRP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Single Responsibility Principle (SRP)"
+            }
+          },
+          {
+            "id": "6ddbefe55e2b3b2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - SOLID/Single Responsibility Principle (SRP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Single Responsibility Principle (SRP)"
+            }
+          },
+          {
+            "id": "bf6798f8aa87d225",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cbe7500414888922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - SOLID/Single Responsibility Principle (SRP).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Single Responsibility Principle (SRP)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b43a1bbb27a24ea2",
+  "lastOpenFiles": [
+    "2nd year/Higher Math/Colloquium/Функциональные ряды (определение функционального ряда, частичной суммы и суммы, остатка ряда, области сходимости функционального ряда).md",
+    "2nd year/Higher Math/Colloquium/Теорема Абеля (к каким рядам она применима). Структура области сходимости степенного ряда.md",
+    "2nd year/Higher Math/Colloquium/Степенные ряды. Определение.md",
+    "2nd year/Higher Math/Colloquium/Скалярное произведение двух кусочно-непрерывных функций, норма функций.md",
+    "2nd year/Higher Math/Colloquium/Свойства сходящихся числовых рядов.md",
+    "2nd year/Higher Math/Colloquium/Ряд Фурье (ряд Фурье по тригонометрической системе функций).md",
+    "2nd year/Higher Math/Colloquium/Ряд Тейлора и ряд Маклорена. Теорема о разложении функции в ряд Тейлора.md",
+    "2nd year/Higher Math/Colloquium/Разложение в ряд Маклорена основных элементарных функций. На каких промежутках эти разложения имеют место.md",
+    "2nd year/Higher Math/Colloquium/Радиус сходимости степенного ряда. Определение; формулы, задающие радиус сходимости.md",
+    "2nd year/Higher Math/Colloquium/Радикальный признак Коши.md",
+    "2nd year/Higher Math/Colloquium/Равномерная сходимость. Почленное дифференцирование и интегрирование функциональных рядов. Признак равномерной сходимости Вейерштрасса.md",
+    "2nd year/Higher Math/Colloquium/Признак сравнения положительных числовых рядов.md",
+    "2nd year/Higher Math/Colloquium/Признак Даламбера.md",
+    "2nd year/Higher Math/Colloquium/Основные понятия числовых рядов. Определение числового ряда, частичной суммы и суммы числового ряда, остатка числового ряда. Сходящиеся и расходящиеся ряды.md",
+    "2nd year/Higher Math/Colloquium/Ортогональность и нормированность тригонометрической системы функций.md",
+    "2nd year/Higher Math/Colloquium/Необходимое условие сходимости числового ряда.md",
+    "2nd year/Higher Math/Colloquium/Интегральный признак сходимости положительных числовых рядов (Коши).md",
+    "2nd year/Higher Math/Colloquium/Знакопеременные и знакочередующиеся ряды. Признак Лейбница.md",
+    "2nd year/Higher Math/Colloquium/Абсолютная и условная сходимость числовых рядов.md",
+    "2nd year/Higher Math/Colloquium/Colloquium.md",
+    "Untitled.md",
+    "2nd year/Higher Math/Colloquium",
+    "2nd year/Higher Math/Higher Math Navigation.md",
+    "ITMO.md",
+    "2nd year/OOP/4 - Grasp/Grasp Navigation.md",
+    "2nd year/OOP/OOP С Navigation.md",
+    "2nd year/OOP/4 - Grasp/Creator.md",
+    "Banners/Main banner.jpg",
+    "Banners",
+    "2nd year/Higher Math/Lectures",
+    "2nd year/Higher Math",
+    "Banners/Probability Theory banner.gif",
+    "Banners",
+    "3rd year",
+    "Excalidraw",
+    "2nd year/Probability Theory/Lectures",
+    "2nd year",
+    "2nd year/Probability Theory",
+    "cf06e478c9b360a1bcfb1055de163c00.jpg",
+    "89e76f194fcf4b60f9e6afa280bcc2e9.jpg",
+    "Untitled.canvas"
+  ]
+}

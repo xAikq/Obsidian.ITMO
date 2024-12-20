@@ -1,8 +1,9 @@
 ---
 banner: "![[Probability Theory banner.gif]]"
+banner_y: 1
 ---
-# Probability Theory Navigation
+#### Probability Theory Navigation
 
-## Lectures
+#### Lectures
 
 [[Алгебра событий]]

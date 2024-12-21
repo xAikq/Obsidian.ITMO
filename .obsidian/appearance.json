@@ -1,5 +1,11 @@
 {
-  "cssTheme": "Blue Topaz",
-  "baseFontSize": 20,
-  "theme": "obsidian"
+  "cssTheme": "Vanilla AMOLED Color",
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Colored Headings"
+  ]
 }

@@ -41,16 +41,16 @@
             }
           },
           {
-            "id": "034c2bd2a666cf44",
+            "id": "6debdca0eecc141f",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".gitignore",
+                "file": "conflict-files-obsidian-git.md",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (.gitignore)"
+              "title": "Diff View (conflict-files-obsidian-git)"
             }
           }
         ],
@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "034c2bd2a666cf44",
+  "active": "6debdca0eecc141f",
   "lastOpenFiles": [
+    "2nd year/Выш. Мат/Коллоквиум/Коллоквиум.md",
+    "conflict-files-obsidian-git.md",
     "2nd year/Выш. Мат/Коллоквиум/Абсолютная и условная сходимость числовых рядов.md",
     "2nd year/История/Зачёт/20. Социально-экономическое и политическое развитие России в конце ХIХ— начале ХХ вв.md",
     "2nd year/История/Зачёт/19. Основные направления внешней политики России во второй половине ХIХ в.md",
@@ -224,7 +226,6 @@
     "2nd year/История/Зачёт/1. Формирование и развитие Древнерусского государства.md",
     "2nd year/История/Зачёт",
     "ITMO.md",
-    "2nd year/Выш. Мат/Коллоквиум/Коллоквиум.md",
     "Banners/Main banner.jpg",
     "2nd year/История/Зачёт/10. Реформы и преобразования Петра I.md",
     "2nd year/История/Зачёт/9. Социально-экономическое развитие и политическое развитие России при первых Романовых.md",
@@ -237,7 +238,6 @@
     "2nd year/История/Зачёт/6. Внутренняя политика Ивана IV; реформы и опричнина.md",
     "2nd year/История",
     "2nd year/Второй курс Навигация.md",
-    "2nd year/ООП/ООП - Навигация.md",
     "Banners/Probability Theory banner.gif",
     "Excalidraw",
     "2nd year/Выш. Мат/Коллоквиум",

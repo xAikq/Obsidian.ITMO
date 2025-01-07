@@ -55,9 +55,21 @@
               "icon": "lucide-file",
               "title": "Exam"
             }
+          },
+          {
+            "id": "47d72400ef34cbec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241224184850.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241224184850"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,10 +222,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f60cb328eef75d4d",
+  "active": "47d72400ef34cbec",
   "lastOpenFiles": [
-    "2nd year/Physics/Консервативные и неконсервативные силы. Закон сохранения энергии.md",
+    "Pasted image 20241224184914.png",
+    "Pasted image 20241224184850.png",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20241224184955.png",
+    "Pasted image 20241224184944.png",
+    "Pasted image 20241224184930.png",
     "2nd year/Physics/Exam.md",
+    "2nd year/Provability Theory/Типовик.md",
+    "2nd year/Provability Theory/6-е задание.md",
+    "2nd year/Physics/Консервативные и неконсервативные силы. Закон сохранения энергии.md",
     "2nd year/Physics/Кинетическая энергия. Взаимосвязь силы и кинетической энергии.md",
     "2nd year/Physics/Потенциальная энергия. Взаимосвязь силы и потенциальной энергии.md",
     "Pasted image 20250107221439.png",
@@ -237,10 +257,6 @@
     "2nd year/Higher Math/Colloquium/Радиус сходимости степенного ряда. Определение; формулы, задающие радиус сходимости.md",
     "2nd year/Higher Math/Colloquium/Ортогональность и нормированность тригонометрической системы функций.md",
     "2nd year/Higher Math/Colloquium/Colloquium.md",
-    "2nd year/History/Exam/Exam.md",
-    "2nd year/History/Exam/3. Политическая раздробленность на Руси.md",
-    "2nd year/History/Exam/1. Формирование и развитие Древнерусского государства.md",
-    "2nd year/Higher Math/Colloquium/Ряд Фурье (ряд Фурье по тригонометрической системе функций).md",
     "2nd year/History/Exam",
     "Banners/Main banner.jpg",
     "2nd year/History",
@@ -253,7 +269,6 @@
     "Banners",
     "3rd year",
     "cf06e478c9b360a1bcfb1055de163c00.jpg",
-    "89e76f194fcf4b60f9e6afa280bcc2e9.jpg",
     "Untitled.canvas"
   ]
 }

@@ -27,20 +27,37 @@
           {
             "id": "5cfc6027437342fc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd year/Higher Math/Colloquium/Абсолютная и условная сходимость числовых рядов.md",
-                "mode": "preview",
+                "file": "2nd year/Physics/Exam.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Exam"
+            }
+          },
+          {
+            "id": "f60cb328eef75d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd year/Physics/Exam.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Абсолютная и условная сходимость числовых рядов"
+              "title": "Exam"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,10 +210,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cfc6027437342fc",
+  "active": "f60cb328eef75d4d",
   "lastOpenFiles": [
-    "ITMO.md",
+    "2nd year/Physics/Консервативные и неконсервативные силы. Закон сохранения энергии.md",
+    "2nd year/Physics/Exam.md",
+    "2nd year/Physics/Кинетическая энергия. Взаимосвязь силы и кинетической энергии.md",
+    "2nd year/Physics/Потенциальная энергия. Взаимосвязь силы и потенциальной энергии.md",
+    "Pasted image 20250107221439.png",
+    "2nd year/Physics/Работа, Мощность, Энергия.md",
+    "2nd year/Physics/Динамика материальной точки. Системы отсчета. Принцип относительности Галилея.md",
+    "2nd year/Physics/Закон сохранения импульса.md",
+    "2nd year/Physics/Импульс материальной точки и системы м.т. II закон Ньютона в импульсной форме.md",
+    "2nd year/Physics/Кинематика движения материальной точки по окружности. Плоское движение твердого тела.md",
+    "2nd year/Physics/Предмет изучения физики Основные понятия механики.md",
+    "2nd year/Physics/Фундаментальные взаимодействия. Сила. Законы Ньютона.md",
+    "2nd year/Physics/Способы описания движения (векторный, координатный).md",
+    "2nd year/Physics/Траекторный способ описания движения. Тангенциальное и нормальное ускорения.md",
+    "Pasted image 20250107202753.png",
     "2nd year/Higher Math/Colloquium/Абсолютная и условная сходимость числовых рядов.md",
+    "2nd year/Physics",
+    "ITMO.md",
     "2nd year/Higher Math/Colloquium/Знакопеременные и знакочередующиеся ряды. Признак Лейбница.md",
     "2nd year/Higher Math/Colloquium/Признак сравнения положительных числовых рядов.md",
     "2nd year/Higher Math/Colloquium/Признак Даламбера.md",
@@ -208,19 +241,6 @@
     "2nd year/History/Exam/3. Политическая раздробленность на Руси.md",
     "2nd year/History/Exam/1. Формирование и развитие Древнерусского государства.md",
     "2nd year/Higher Math/Colloquium/Ряд Фурье (ряд Фурье по тригонометрической системе функций).md",
-    "2nd year/OOP/3 - SOLID/SOLID Navigation.md",
-    "2nd year/OOP/3 - SOLID/Single Responsibility Principle (SRP).md",
-    "2nd year/OOP/3 - SOLID/Open Closed Principle (OCP).md",
-    "2nd year/OOP/3 - SOLID/Liskov Substitution Principle (LSP).md",
-    "2nd year/OOP/3 - SOLID/Interface Segregation Principle (ISP).md",
-    "2nd year/OOP/3 - SOLID/Dependency Inversion Principle (DIP).md",
-    "2nd year/History/Exam/20. Социально-экономическое и политическое развитие России в конце ХIХ— начале ХХ вв.md",
-    "2nd year/History/Exam/19. Основные направления внешней политики России во второй половине ХIХ в.md",
-    "2nd year/History/Exam/18. Социально-экономическое и политическое развитие России в пореформенный период.md",
-    "2nd year/History/Exam/17. Великие реформы 60-х – 70-х годов ХIХ в.md",
-    "2nd year/History/Exam/16. Общественно-политическая жизнь России в ХIХ в.md",
-    "2nd year/History/Exam/15. Основные направления внешней политики России в первой половине ХIХ в.md",
-    "2nd year/History/Exam/14. Внутренняя политика России при Николае I.md",
     "2nd year/History/Exam",
     "Banners/Main banner.jpg",
     "2nd year/History",
@@ -232,7 +252,6 @@
     "2nd year/Higher Math",
     "Banners",
     "3rd year",
-    "2nd year/Provability Theory/Lectures",
     "cf06e478c9b360a1bcfb1055de163c00.jpg",
     "89e76f194fcf4b60f9e6afa280bcc2e9.jpg",
     "Untitled.canvas"

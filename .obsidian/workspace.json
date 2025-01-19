@@ -44,13 +44,15 @@
             "id": "034c2bd2a666cf44",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "2nd year/Provability Theory/7-е задание.md",
-                "staged": false
+                "file": "2nd year/Provability Theory/7-e задание.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (7-е задание)"
+              "icon": "lucide-file",
+              "title": "7-e задание"
             }
           }
         ],
@@ -203,13 +205,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "034c2bd2a666cf44",
   "lastOpenFiles": [
+    "Pasted image 20241224202620.png",
+    "Pasted image 20241224202605.png",
+    "Pasted image 20241224202554.png",
+    "Pasted image 20241224202546.png",
+    "Pasted image 20241224202540.png",
+    "Pasted image 20241224202528.png",
     "2nd year/Provability Theory/Типовик.md",
+    "2nd year/Provability Theory/7-e задание.md",
     "2nd year/Provability Theory/6-е задание.md",
     "Pasted image 20241224184955.png",
     "Pasted image 20241224184944.png",
@@ -240,7 +248,6 @@
     "2nd year/Provability Theory/Lectures",
     "2nd year/Provability Theory",
     "2nd year/OOP/4 - Grasp/Information Expert.md",
-    "2nd year/OOP/4 - Grasp/Grasp Navigation.md",
     "2nd year/OOP/4 - Grasp",
     "2nd year/OOP/3 - SOLID",
     "2nd year/OOP",
@@ -249,10 +256,6 @@
     "2nd year/Higher Math/Lectures",
     "2nd year/Higher Math/Colloquium",
     "2nd year/Higher Math",
-    "Banners/Main banner.jpg",
-    "Banners/Probability Theory banner.gif",
-    "cf06e478c9b360a1bcfb1055de163c00.jpg",
-    "89e76f194fcf4b60f9e6afa280bcc2e9.jpg",
     "Untitled.canvas"
   ]
 }

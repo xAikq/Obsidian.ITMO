@@ -18,8 +18,7 @@
 #### 1. Равномерное распределение (Uniform Distribution)
 
 - **Плотность вероятности:**
-  
-  $$f_X(x) = \begin{cases} \frac{1}{b - a}, & a \leq x \leq b, \\ 0, & \text{иначе}. \end{cases}$$
+  $$f_{X}(x) = \begin{cases} \frac{1}{b - a}, & a \leq x \leq b, \\ 0, & \text{иначе}. \end{cases}$$
 - **Математическое ожидание:**
 
 $$M(x) = \frac{a+b}{2}$$

@@ -19,6 +19,7 @@
 
 - **Плотность вероятности:**
   $$f_{X}(x) = \begin{cases} \frac{1}{b - a}, & a \leq x \leq b, \\ 0, & \text{иначе}. \end{cases}$$
+
 - **Математическое ожидание:**
 
 $$M(x) = \frac{a+b}{2}$$
@@ -57,6 +58,15 @@ $$3) \space F_{\xi}(x) = \int_{-\infty}^{x} f_{\xi}(x) \space dx = \int_{-\infty
   0, & \text{иначе},
   \end{cases}$$
   где $(\lambda > 0)$ — параметр распределения.
+$$
+f_X(x) =
+\begin{cases}
+\lambda e^{-\lambda x}, & x \geq 0, \\
+0, & \text{иначе}.
+\end{cases}
+$$
+где \(\lambda > 0\) — параметр распределения.
+
 
 - **Математическое ожидание:** 
 

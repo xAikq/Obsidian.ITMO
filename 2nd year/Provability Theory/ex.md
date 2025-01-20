@@ -52,11 +52,7 @@ $$3) \space F_{\xi}(x) = \int_{-\infty}^{x} f_{\xi}(x) \space dx = \int_{-\infty
 #### 3. Показательное распределение (Exponential Distribution)
 
 - **Плотность вероятности:**
-  $$f_X(x) =
-  \begin{cases}
-  \lambda e^{-\lambda x}, \ x \geq 0, \\
-  0, \ \text{иначе},
-  \end{cases}$$
+  $$f_X(x) = \begin{cases} \lambda e^{-\lambda x}, \ x \geq 0, \\ 0, \ \text{иначе}, \end{cases}$$
   где $(\lambda > 0)$ — параметр распределения.
 
 

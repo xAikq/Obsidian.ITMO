@@ -51,52 +51,38 @@ $$3) \space F_{\xi}(x) = \int_{-\infty}^{x} f_{\xi}(x) \space dx = \int_{-\infty
 #### 2. Нормальное распределение (Normal Distribution)
 
 - **Плотность вероятности:**
-  $$
-  f_X(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{ -\frac{(x - \mu)^2}{2\sigma^2} },
-  $$
+  $$f_X(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{ -\frac{(x - \mu)^2}{2\sigma^2} },$$
   где $(\mu)$ — математическое ожидание, $(\sigma^2)$ — дисперсия.
 
 #### 3. Показательное распределение (Exponential Distribution)
 
 - **Плотность вероятности:**
-  $$
-  f_X(x) =
+  $$f_X(x) =
   \begin{cases}
   \lambda e^{-\lambda x}, & x \geq 0, \\
   0, & \text{иначе},
-  \end{cases}
-  $$
+  \end{cases}$$
   где $(\lambda > 0)$ — параметр распределения.
 
 - **Математическое ожидание:** 
 
-$$
-M(x) = \frac{1}{\lambda}
-$$
+$$M(x) = \frac{1}{\lambda}$$
 
 - **Дисперсия:**
 
-$$
-D(x) = \frac{1}{\lambda^{2}}
-$$
+$$D(x) = \frac{1}{\lambda^{2}}$$
 
 
 ### Свойства непрерывных распределений
 
 - **Математическое ожидание:**
-  $$
-  E[X] = \int_{-\infty}^{+\infty} x f_X(x) \, dx.
-  $$
+  $$M[X] = \int_{-\infty}^{+\infty} x f_X(x) \, dx.$$
 
 - **Дисперсия:**
-  $$
-  \text{Var}(X) = E[X^2] - (E[X])^2 = \int_{-\infty}^{+\infty} x^2 f_X(x) \, dx - (E[X])^2.
-  $$
+  $$D(X) = M[X^2] - (M[X])^2 = \int_{-\infty}^{+\infty} x^2 f_X(x) \, dx - (M[X])^2.$$
 
 - **Функция распределения (CDF):**
-  $$
-  F_X(x) = P(X \leq x) = \int_{-\infty}^{x} f_X(t) \, dt.
-  $$
+  $$F_X(x) = P(X \leq x) = \int_{-\infty}^{x} f_X(t) \, dt.$$
 
 ---
 
@@ -166,9 +152,7 @@ $$Y = X^2.$$
 #### Проверка независимости
 
 Для независимости должны выполняться:
-$$
-P(Y = y | X = x) = P(Y = y).
-$$
+$$P(Y = y | X = x) = P(Y = y).$$
 
 Однако, $( Y )$ полностью определяется $( X )$ (так как $( Y = X^2 )$), что означает, что знание $( X )$ даёт полную информацию о $( Y )$. Например:
 $$P(Y = 1 | X = 1) = 1,$$
@@ -185,12 +169,8 @@ $$P(Y = 1) = 1.$$
    $$M[Y] = \frac{1}{4} \cdot 1 + \frac{1}{2} \cdot 0 + \frac{1}{4} \cdot 1 = \frac{1}{2}.$$
 
 2. **Ковариация:**
-   $$
-   M[XY] = (-1) \cdot 1 \cdot \frac{1}{4} + 0 \cdot 0 \cdot \frac{1}{2} + 1 \cdot 1 \cdot \frac{1}{4} = 0,
-   $$
-   $$
-   \text{COV}(X, Y) = 0 - 0 \cdot \frac{1}{2} = 0.
-   $$
+   $$M[XY] = (-1) \cdot 1 \cdot \frac{1}{4} + 0 \cdot 0 \cdot \frac{1}{2} + 1 \cdot 1 \cdot \frac{1}{4} = 0,$$
+   $$\text{COV}(X, Y) = 0 - 0 \cdot \frac{1}{2} = 0.$$
 
 Однако $( Y )$ зависит от $( X )$, так как знание $( X )$ определяет $( Y )$. Следовательно, $( X )$ и $( Y )$ некоррелированные, но зависимы.
 
@@ -251,11 +231,8 @@ $$f_{X+Y}(z) = \int_{-\infty}^{+\infty} f_X(x) f_Y(z - x) \, dx.$$
 #### Решение
 
 1. **Определение плотностей:**
-   $$f_X(x) = f_Y(x) =
-   \begin{cases}
-   1, & 0 \leq x \leq 1, \\
-   0, & \text{иначе}.
-   \end{cases}$$
+   
+   $$f_X(x) = f_Y(x) = \begin{cases} 1, & 0 \leq x \leq 1, \\ 0, & \text{иначе}. \end{cases}$$
 
 2. **Нахождение свёртки:**
    $$f_Z(z) = \int_{-\infty}^{+\infty} f_X(x) f_Y(z - x) \, dx = \int_{0}^{1} f_Y(z - x) \, dx.$$
@@ -276,12 +253,7 @@ $$f_{X+Y}(z) = \int_{-\infty}^{+\infty} f_X(x) f_Y(z - x) \, dx.$$
      $$f_Z(z) = 0.$$
 
 3. **Итоговая плотность:**
-   $$f_Z(z) =
-   \begin{cases}
-   z, & 0 \leq z \leq 1, \\
-   2 - z, & 1 < z \leq 2, \\
-   0, & \text{иначе}.
-   \end{cases}$$
+   $$f_Z(z) = \begin{cases} z, & 0 \leq z \leq 1, \\ 2 -z, & 1 < z \leq 2, \\ 0, & \text{иначе}. \end{cases}$$
 
 ### Смысл
 

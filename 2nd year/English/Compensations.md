@@ -52,10 +52,10 @@
 
 ### **Exercise b**
 
-1) question which ends with a preposition - ==question 2==
-2) subject question, where there is no auxiliary verb - ==question 1==
-3) question which uses a negative auxiliary verb - ==question 3==
-4) indirect question - ==question 4==
+1) question which ends with a preposition - **question 2**
+2) subject question, where there is no auxiliary verb - **question 1**
+3) question which uses a negative auxiliary verb - **question 3**
+4) indirect question - **question 4**
 
 ---
 # **SB Pages 8-9**
@@ -89,7 +89,7 @@
 1) If you could $\underline{\text{have dinner}}$ with $\underline{\text{three people}}$ from the past, who would you choose and why?
 2) Do you $\underline{\text{have}}$ a $\underline{\text{boyfriend}}$?
 	
-	Are you planning to $\underline{\text{get pregnant}}$?
+	 Are you planning to $\underline{\text{get pregnant}}$?
 1) Do you still $\underline{\text{practise philosophy}}$?
 2) $\underline{\text{What animal}}$ would you like to be reincarnated as?
 

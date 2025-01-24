@@ -1,5 +1,8 @@
 ---
 banner: "![[Main banner.jpg]]"
+---
+---
+banner: "![[Main banner.jpg]]"
 banner_y: 0.37
 ---
 # Navigation

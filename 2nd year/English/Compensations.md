@@ -370,6 +370,18 @@ They learned that they were much more effective working together as one big team
 - Has any big sporting event ever taken **PLACE** in your (nearest big) city? Did you go to it?
 - Do you sometimes get annoyed by little things that people do, or do you take no **NOTICE**? What kinds of things?
 
+### **Other questions (page 114)**
+
+- Do you get up very quickly in the morning or do you take **YOUR TIME**?
+    
+- Have you taken **UP** a new sport or hobby recently, or is there one you would like to take **UP**?
+    
+- If you were thinking of buying a new phone, what factors would you take **INTO ACCOUNT**?
+    
+- What things might make you take **to** or **AGAINST** someone when you meet them for the first time?
+    
+- Who takes the rubbish **OUT** in your house, you or someone else?
+
 ---
 ## **Page 155 exercise 1.a**
 

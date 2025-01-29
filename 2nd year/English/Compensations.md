@@ -369,3 +369,31 @@ They learned that they were much more effective working together as one big team
 - Have you ever not taken **ADVANTAGE OF** a good opportunity and then regretted it?
 - Has any big sporting event ever taken **PLACE** in your (nearest big) city? Did you go to it?
 - Do you sometimes get annoyed by little things that people do, or do you take no **NOTICE**? What kinds of things?
+
+---
+## **Page 155 exercise 1.a**
+
+1) hard / hardly
+	1) He trains **hard** – at least three hours a day.
+	2) It’s incredibly foggy. I can **hardly** see anything.
+2) late / lately
+	1) I hate it when people arrive **late** for meetings.
+	2) I haven’t heard from Mike **lately**. He must be very busy.
+3) at the end / in the end
+	1) **At the end** of a film, I always stay and watch the credits roll.
+	2) I didn’t want to go, but **in the end**, they persuaded me.
+4) especially / specially
+	1) I love most kinds of music, but **especially** jazz.
+	2) My wedding dress was **specially** made for me by a dressmaker.
+5) actually / at the moment
+	1) She looks younger than me, but **actually** she’s two years older.
+	2) **At the moment**, they’re renting a flat, but they’re hoping to buy one soon.
+6) nearly / near
+	1) I’ve **nearly** finished my book. I’m on the last chapter.
+	2) Excuse me, is there a bank **near** here?
+7) yet / still
+	1) Have you found a job **yet**?
+	2) He’s 35, but he **still** lives with his parents.
+8) ever / even
+	1) Have you **ever** been to the USA?
+	2) I’ve been all over the USA – I’ve **even** been to Alaska!

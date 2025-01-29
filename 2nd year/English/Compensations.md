@@ -200,6 +200,12 @@ the second word
 	
 	**bad-tempered** = refers to someone who is often irritable, grumpy, or quick to anger.
 
+	**big-headed** = means being overly proud, arrogant, or thinking too highly of oneself.
+
+	**narrow-minded** = refers to someone who is unwilling to consider new ideas, opinions, or perspectives.
+
+	**self-centered** = means being overly focused on oneself, often without considering the needs, feelings, or perspectives of others.
+
 
 # **SB Pages 42-43**
 

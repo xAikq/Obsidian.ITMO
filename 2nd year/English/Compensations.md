@@ -414,3 +414,30 @@ They learned that they were much more effective working together as one big team
 8) ever / even
 	1) Have you **ever** been to the USA?
 	2) I’ve been all over the USA – I’ve **even** been to Alaska!
+
+### **Making questions with adverbs**
+
+1) At the moment / Actually
+	- What are you doing at the moment?
+	- Do you actually believe that story?
+2) Especially / Specially
+	- Which subjects do you like especially at school?
+	- Was this dress specially made for you?
+3) Ever / Even
+	-  Have you ever traveled abroad?
+	- Do you even know what happened?
+4) Hard / Hardly
+	- Do you work hard every day?
+	- Can you hardly hear what they are saying?
+5) In the end / At the end
+	- What decision did you make in the end?
+	- What happens at the end of the movie?
+6) Late / Lately
+	- Why did you arrive late?
+	- Have you been feeling tired lately?
+7) Near / Nearly 
+	- How near is the nearest supermarket?
+	- Have you nearly finished your homework?
+8) Still / Yet
+	- Are you still working on that project?
+	- Have you finished your book yet?

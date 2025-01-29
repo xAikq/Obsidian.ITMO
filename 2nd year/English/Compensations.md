@@ -353,4 +353,13 @@ They learned that they were much more effective working together as one big team
 4) A jaguar came near him, but he frightened it away.
 5) Because he was exhausted and starving. Then he saw footprints which he thought were Kevin's and followed them. Then he realized they were his own. 
 
+# **Speaking**
 
+---
+## **Page 43 exercise 6.e (page 108)**
+
+- Who do you take **AFTER** more, your father or your mother?
+- Do you take **CARE OF** yourself, or are you quite laid-back about your health?
+- Have you ever not taken **ADVANTAGE OF** a good opportunity and then regretted it?
+- Has any big sporting event ever taken **PLACE** in your (nearest big) city? Did you go to it?
+- Do you sometimes get annoyed by little things that people do, or do you take no **NOTICE**? What kinds of things?

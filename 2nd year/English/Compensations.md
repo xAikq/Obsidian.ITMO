@@ -370,7 +370,7 @@ They learned that they were much more effective working together as one big team
 - Has any big sporting event ever taken **PLACE** in your (nearest big) city? Did you go to it?
 - Do you sometimes get annoyed by little things that people do, or do you take no **NOTICE**? What kinds of things?
 
-### **Other questions (page 114)**
+### **Other questions (page 114) + answers on them**
 
 - Do you get up very quickly in the morning or do you take **YOUR TIME**?
 - **answer:** I usually don't rush much in the morning, because it's literally a 15-minute drive to the university, so I have time to calm down and only then go to study.

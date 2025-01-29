@@ -199,3 +199,158 @@ the second word
 	**absent-minded** = refers to someone who is forgetful, distracted, or not paying attention to their surroundings or tasks. 
 	
 	**bad-tempered** = refers to someone who is often irritable, grumpy, or quick to anger.
+
+
+# **SB Pages 42-43**
+
+---
+## **Page 42**
+
+### **Exercise 5.a**
+
+- **Photo 1:** Wingsuit flying
+- **Photo 2:** Skydiving
+- **Photo 3:** Paragliding
+- **Photo 4:** Bungee jumping
+
+### **Exercise 5.b**
+
+- [✅] More and more celebrities are taking them up.
+- [✅] Once some people have tried it, they can't stop.
+- [✅] People find traditional sports, like football, not challenging enough.
+- [ ] People want to have new experience.
+- [ ] They are better known because you can watch other people doing them live online.
+- [ ] It's cheaper to do extreme sports than ever before.
+
+### **Exercise 5.c**
+
+1) 110 mph
+2) 33
+3) Dean Potter, Graham Hunt
+4) 59, 679
+5) 36%
+6) Jess Cox
+7) Steph Davis
+
+### **Exercise 5.d**
+
+He thinks, that people need to learn how to do them better. More elegant, rather than more dangerous.
+
+---
+## **Page 43**
+
+### **Exercise 6.b**
+
+1) Skiing, when I was six
+2) Mountain biking, rock climbing, ice-walking, white-water rafting
+3) I love taking risks, I love the adrenalin rush
+4) I don't really think about getting injured or killed
+5) Because they're becoming more accessible, and there's much more exposure than before on TV and on social media. It's the adrenalin rush that people really enjoy
+6) I think it's becoming a bit more equal between men and women, but men still dominate
+
+### **Exercise 6.c**
+
+1) **take after sb** = to look or behave like an older member of your family, especially your mother or father
+2) **take risks** = to do sth even though you know that sth bad could happen as a result
+3) **take part in** = to be involved in sth
+
+### **Exercise 6.d**
+
+1) **take care of** = care for sb / sth / yourself, to be careful about sth
+2) **take advantage of** = make use of sth well, to make use of an opportunity.
+3) **take place** = happen, especially after previously being arranged or planned.
+4) **take your time** = use as much time as you need without hurrying
+5) **take into account** = consider particular facts, circumstance, when making a decision about sth
+6) **take no notice** = pay no attention
+7) **take pity on** = show compassion
+8) **take off** = remove, leave the ground and begin to fly
+9) **take up** = learn or start to do sth, especially for pleasure
+10) **take to** = start liking up
+11) **take against** = to start not liking sb / sth for no clear reason
+12) **take out** = go to a restaurant, theatre and so on with sb you have invited
+
+### **Exercise 8.a**
+
+Surfing helped her to relax and get her mind off her problems.
+
+---
+# **SB Pages 46-48**
+
+---
+## **Page 46**
+
+### **Exercise 1.a**
+
+1) C
+2) B
+3) A
+4) B
+5) A
+6) A
+
+### **Exercise 2.b**
+
+On balance, she was positive
+
+### **Exercise 2.c**
+
+1) challenge
+2) because
+3) actually
+4) complicated
+5) through
+6) injured
+7) if
+8) Although
+9) though
+10) definitely
+
+---
+## **Page 47**
+
+### **Exercise 2.e**
+
+- [ ] ❌ Most of what we ate was yucca, which is a bit like a potato
+- [ ] ❌ The water we had to wash in was the sea
+- [ ] ❌ When it rained
+- [ ] ❌ We were meeting all these new people we'd never met before
+- [y] ✅ (He) threw us out of the boat and told us to swim to the island
+- [y] ✅ We had a sports day and we have a talent show
+- [y] ✅ Leaving the island
+
+### **Exercise 2.g**
+
+1) For the first week, they didn't eat anything except a few coconuts.
+2) They managed to kill a wild boar.
+3) There was tension between the two groups, and it didn't take much for arguments to occur.
+4) The two groups came together, and they built a communal shelter on the beach in the last week.
+5) Ali survived for 35 days on the island.
+
+### **Exercise 2.h**
+
+13
+
+They learned that they were much more effective working together as one big team.
+
+---
+## **Page 48**
+
+### **Exercise 4.b**
+
+1) To go deep into the jungle for seven days and visit an undiscovered Indian village
+	After seven days, they still hadn't found the village and there were tensions in the group, so they decided to turn around and go back to Apolo, their starting point.
+
+2) a. The three friends started to suspect that Karl (the guide) didn't know where the village was.
+	b. Marcus was complaining about everything, especially his feet.
+
+3) Kevin was angry with Marcus because he thought it was his fault that they were having to cut the trip short / Kevin and Yossi decided to raft down the river, but didn't want Marcus to come. Marcus and Karl decided to go back to Apolo on foot.
+
+### **Exercise 4.c**
+
+1) They were both thrown into the water when the raft hit a rock.
+2) He swam to the river bank and found their backpack floating in the river, with food, insect repellent, a lighter, and the map.
+3) Kevin was feeling desperate and responsible for what had happened to Yossi. Yossi was feeling quite optimistic because he was sure he would find Kevin.
+4) A jaguar came near him, but he frightened it away.
+5) Because he was exhausted and starving. Then he saw footprints which he thought were Kevin's and followed them. Then he realized they were his own. 
+
+

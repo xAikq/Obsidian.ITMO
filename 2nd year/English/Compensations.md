@@ -373,14 +373,19 @@ They learned that they were much more effective working together as one big team
 ### **Other questions (page 114)**
 
 - Do you get up very quickly in the morning or do you take **YOUR TIME**?
+- **answer:** I usually don't rush much in the morning, because it's literally a 15-minute drive to the university, so I have time to calm down and only then go to study.
     
 - Have you taken **UP** a new sport or hobby recently, or is there one you would like to take **UP**?
+- **answer:** I can't say exactly what is meant by "recently", time is a relative concept... However, not so long ago (about a year ago) I went to the gym and just "got sick" of it.
     
 - If you were thinking of buying a new phone, what factors would you take **INTO ACCOUNT**?
+- **answer:** The first and most important thing for me is the characteristics of the battery, so that it can hold its charge for AS LONG AS POSSIBLE. The second one is the compactness of the device itself, so that it fits comfortably in my hand and I can use it with one hand (one finger)
     
-- What things might make you take **to** or **AGAINST** someone when you meet them for the first time?
+- What things might make you take **TO** or **AGAINST** someone when you meet them for the first time?
+- **answer:** Most of the time, I look at how a person is dressed at our first meeting. If he looks neat and in the appropriate style of the establishment, then I will be predisposed to get to know him.
     
 - Who takes the rubbish **OUT** in your house, you or someone else?
+- **answer:** Usually, that is a part of my "home job", but if I am nearly full time out of home - that task addressed to my parents.
 
 ---
 ## **Page 155 exercise 1.a**
@@ -391,7 +396,7 @@ They learned that they were much more effective working together as one big team
 2) late / lately
 	1) I hate it when people arrive **late** for meetings.
 	2) I haven’t heard from Mike **lately**. He must be very busy.
-3) at the end / in the end
+3) at the end / in the end 
 	1) **At the end** of a film, I always stay and watch the credits roll.
 	2) I didn’t want to go, but **in the end**, they persuaded me.
 4) especially / specially

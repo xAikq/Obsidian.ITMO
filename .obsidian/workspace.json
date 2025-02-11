@@ -37,18 +37,18 @@
             }
           },
           {
-            "id": "46d2d6cdeb613d30",
+            "id": "ff6f9e8a87c0ebbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd year/Higher Math/Lectures/Lecture 1.md",
+                "file": "2nd year/English/11.02.25.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "11.02.25"
             }
           }
         ],
@@ -71,7 +71,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,8 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46d2d6cdeb613d30",
+  "active": "c95d9632eaa01329",
   "lastOpenFiles": [
+    "2nd year/Higher Math/Lectures/Lecture 1.md",
+    "2nd year/English/11.02.25.md",
     "ITMO.md",
     "2nd year/English/Compensations.md",
     "Pasted image 20250124162335.png",
@@ -242,7 +245,6 @@
     "2nd year/Higher Math/Exam/Критерии сходимости рядов/Радикальный признак Коши.md",
     "2nd year/Higher Math/Exam/Критерии сходимости рядов/Прямой признак сравнения.md",
     "2nd year/Higher Math/Exam/Критерии сходимости рядов/Признак Д’Аламбера.md",
-    "2nd year/Higher Math/Exam/Критерии сходимости рядов/Критерий Коши.md",
     "2nd year/Higher Math/Exam/Критерии сходимости рядов",
     "2nd year/Higher Math/Exam",
     "Pasted image 20241224202546.png",

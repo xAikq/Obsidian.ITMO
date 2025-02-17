@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd year/English/11.02.25.md",
+                "file": "2nd year/Java/Lecture 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11.02.25"
+              "title": "Lecture 2"
             }
           }
         ],
@@ -206,8 +206,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c95d9632eaa01329",
+  "active": "015f5fdf449fa214",
   "lastOpenFiles": [
+    "2nd year/Java/Photos/Pasted image 20250217191724.png",
+    "2nd year/Java/Photos",
+    "2nd year/Java/Photos/Pasted image 20250217185933.png",
+    "2nd year/Operation Systems/Lecture 1.md",
+    "2nd year/Java/Lecture 2.md",
+    "2nd year/Java",
+    "2nd year/Operation Systems",
     "2nd year/Higher Math/Lectures/Lecture 1.md",
     "2nd year/English/11.02.25.md",
     "ITMO.md",
@@ -242,18 +249,11 @@
     "2nd year/Physics/Закон сохранения импульса.md",
     "2nd year/Physics/Exam.md",
     "2nd year/Physics",
-    "2nd year/Higher Math/Exam/Критерии сходимости рядов/Радикальный признак Коши.md",
-    "2nd year/Higher Math/Exam/Критерии сходимости рядов/Прямой признак сравнения.md",
-    "2nd year/Higher Math/Exam/Критерии сходимости рядов/Признак Д’Аламбера.md",
     "2nd year/Higher Math/Exam/Критерии сходимости рядов",
     "2nd year/Higher Math/Exam",
     "Pasted image 20241224202546.png",
     "Pasted image 20241224202540.png",
-    "Pasted image 20241224202528.png",
     "2nd year/Provability Theory/Lectures",
-    "2nd year/Provability Theory",
-    "2nd year/OOP/4 - Grasp",
-    "2nd year/OOP/3 - SOLID",
     "Untitled.canvas"
   ]
 }
